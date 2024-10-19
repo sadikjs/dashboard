@@ -166,29 +166,7 @@ const posts: Post[] = [
       },
     ],
   },
-  {
-<<<<<<< HEAD
-    id: '11',
-=======
-    id: '12',
->>>>>>> third
-    title: 'Machine Learning: Powering Intelligent Systems',
-    body: 'Machine Learning (ML) algorithms enable computers...',
-    author: 'Ava Johnson',
-    date: '2024-05-20',
-    comments: [
-      { id: '1', text: 'ML is reshaping industries.', username: 'Emma' },
-      {
-        id: '2',
-        text: "I'm interested in reinforcement learning.",
-<<<<<<< HEAD
-        username: 'Daniel',
-=======
-        username: 'Daniel 12',
->>>>>>> third
-      },
-    ],
-  },
+  
 ];
 
 export default posts;
