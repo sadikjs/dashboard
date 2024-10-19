@@ -167,7 +167,11 @@ const posts: Post[] = [
     ],
   },
   {
+<<<<<<< HEAD
     id: '11',
+=======
+    id: '12',
+>>>>>>> third
     title: 'Machine Learning: Powering Intelligent Systems',
     body: 'Machine Learning (ML) algorithms enable computers...',
     author: 'Ava Johnson',
@@ -177,7 +181,11 @@ const posts: Post[] = [
       {
         id: '2',
         text: "I'm interested in reinforcement learning.",
+<<<<<<< HEAD
         username: 'Daniel',
+=======
+        username: 'Daniel 12',
+>>>>>>> third
       },
     ],
   },
